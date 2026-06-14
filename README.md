@@ -1,5 +1,10 @@
 # Segundo Cerebro
 
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 App Android nativa para tomar notas siguiendo el método **Building a Second Brain (BASB)** de Tiago Forte: organización **P.A.R.A.** y flujo **C.O.D.E.**. Diseño minimalista cálido (estilo papel), 100% offline y local.
 
 <p align="center"><em>Captura · Organiza · Destila · Expresa</em></p>
